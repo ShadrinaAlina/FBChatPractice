@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839824797138",
+    "firebase_url": "https://mychatpractice-debc2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychatpractice-debc2",
+    "storage_bucket": "mychatpractice-debc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839824797138:android:ded09de2cf6a0e9a21ec0b",
+        "android_client_info": {
+          "package_name": "com.example.fbchatpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839824797138-jg72dv76ffb5mtu6sefkktpjd7ska1op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbchatpractice",
+            "certificate_hash": "9f87e67d61d53325a706b5c89cd5e0cc76c930c4"
+          }
+        },
+        {
+          "client_id": "839824797138-0g9dkcu6buf2sk1pidpqdp4ivdpv35ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwrN3sJdVfVk1m_oV7Cfe5HyQf97bcCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839824797138-0g9dkcu6buf2sk1pidpqdp4ivdpv35ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
